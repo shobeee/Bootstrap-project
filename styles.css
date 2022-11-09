@@ -21,13 +21,20 @@
 
 .landing {
     background: #1C1A19;
+    border: 5px solid darkblue;
+    padding-left: 2rem;
 }
 
 .landing-p {
     color: #F4F5F7;
+   
 }
 
 .sub-title {
     color: rgba(255, 255, 255, 1);
     font-family: 'Inter', sans-serif;
+}
+
+body {
+    border: 5px solid red;
 }
