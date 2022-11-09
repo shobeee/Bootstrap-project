@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.navigation {
+    background-color: rgba(62, 60, 60, 1);
+}
+
+.headline {
+    color: rgba(245, 88, 0, 1);
+    font-family: 'Crete Round', sans-serif;
+    font-size: 72px;
+    font-weight: 400;
+}
+
+.landing {
+    background: #1C1A19;
+    border: 5px solid darkblue;
+    padding-left: 2rem;
+}
+
+.landing-p {
+    color: #F4F5F7;
+   
+}
+
+.sub-title {
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Inter', sans-serif;
+}
